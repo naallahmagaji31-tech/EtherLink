@@ -1,0 +1,29 @@
+{
+  "name": "soroban-budget-assert",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Empirical budget measurement, assertion tooling, and cost dashboard for Soroban smart contracts",
+  "scripts": {
+    "build": "npm run build:frontend && npm run build:contracts",
+    "build:frontend": "npm --prefix frontend run build",
+    "build:site": "npm --prefix site run build",
+    "build:rust": "cargo check --workspace",
+    "build:contracts": "cargo build -p amm-pool-contract --target wasm32v1-none --release",
+    "check": "npm run check:frontend && npm run check:rust",
+    "check:frontend": "npm --prefix frontend run validate",
+    "check:rust": "cargo check --workspace",
+    "test": "npm run test:frontend && npm run test:rust",
+    "test:frontend": "npm --prefix frontend test",
+    "test:rust": "cargo test --workspace --no-run",
+    "dev:frontend": "npm --prefix frontend run dev"
+  },
+  "keywords": [
+    "soroban",
+    "stellar",
+    "smart-contracts",
+    "budget",
+    "dashboard"
+  ],
+  "author": "Soroban Budget Assert Contributors",
+  "license": "MIT"
+}

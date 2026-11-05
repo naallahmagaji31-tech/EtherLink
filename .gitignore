@@ -8,6 +8,7 @@ req.json
 node_modules/
 /dist
 site/dist
+frontend/dist
 *.pdf
 current_report.json
 .soroban/

@@ -1,0 +1,21 @@
+{
+  "name": "frontend",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Frontend landing page and cost-over-time dashboard for Soroban Budget Assert",
+  "scripts": {
+    "dev": "node scripts/serve.js",
+    "build": "node scripts/build.js",
+    "preview": "node scripts/serve.js --dist",
+    "validate": "node scripts/validate.js",
+    "test": "node scripts/validate.js"
+  },
+  "keywords": [
+    "soroban",
+    "stellar",
+    "dashboard",
+    "frontend"
+  ],
+  "author": "Soroban Budget Assert Contributors",
+  "license": "MIT"
+}
