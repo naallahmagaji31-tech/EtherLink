@@ -1,8 +1,8 @@
 {
-  "name": "frontend",
+  "name": "etherlink-frontend",
   "version": "0.1.0",
   "private": true,
-  "description": "Frontend landing page and cost-over-time dashboard for Soroban Budget Assert",
+  "description": "EtherLink Frontend — landing page and cost-over-time dashboard",
   "scripts": {
     "dev": "node scripts/serve.js",
     "build": "node scripts/build.js",

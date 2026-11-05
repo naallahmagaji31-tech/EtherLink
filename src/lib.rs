@@ -1,4 +1,4 @@
-//! # Soroban Budget Assert — Core Module
+//! # EtherLink — Core Module
 //!
 //! This crate provides the foundational traits and types for cost measurement,
 //! budget assertion, and resource reporting. See the [`traits`] module for the full

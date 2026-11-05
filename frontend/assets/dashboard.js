@@ -1,6 +1,6 @@
 /**
  * @file dashboard.js
- * @description Client-side controller for the Soroban Budget Assert cost-over-time dashboard.
+ * @description Client-side controller for the EtherLink cost-over-time dashboard.
  *
  * ## Overview
  * This module is loaded by `dashboard.html` and is responsible for the full

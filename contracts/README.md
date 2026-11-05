@@ -1,4 +1,4 @@
-# Soroban Smart Contracts & Assertion Tooling
+# EtherLink Smart Contracts & Assertion Tooling
 
 This directory documents the smart contracts and assertion tooling within the repository.
 

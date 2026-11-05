@@ -9,7 +9,7 @@ members = [
 resolver = "2"
 
 [package]
-name = "soroban-budget-assert-core"
+name = "etherlink-core"
 version.workspace = true
 edition.workspace = true
 license.workspace = true

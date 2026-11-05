@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🛡️ Soroban Budget Assert</h1>
+  <h1>🛡️ EtherLink</h1>
   <p><strong>Empirical cost measurement and assertion tooling for Soroban smart contracts.</strong></p>
   
   [![Build Status](https://github.com/Tollcraft/soroban-budget-assert/actions/workflows/budget.yml/badge.svg)](https://github.com/Tollcraft/soroban-budget-assert/actions/workflows/budget.yml)
@@ -18,7 +18,7 @@
 
 [![asciicast](https://asciinema.org/a/qqC0RysuCDBvfUXC.svg)](https://asciinema.org/a/qqC0RysuCDBvfUXC)
 
-`soroban-budget-assert` is a developer tool that measures the gap between local Soroban test estimates and real network costs. It allows developers to assert budget limits during testing and automatically generate detailed execution-resource reports across an entire workspace.
+`EtherLink` is a developer tool that measures the gap between local Soroban test estimates and real network costs. It allows developers to assert budget limits during testing and automatically generate detailed execution-resource reports across an entire workspace.
 
 ### 🏗️ Architecture
 

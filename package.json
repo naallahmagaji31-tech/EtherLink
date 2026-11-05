@@ -1,8 +1,8 @@
 {
-  "name": "soroban-budget-assert",
+  "name": "etherlink",
   "version": "0.1.0",
   "private": true,
-  "description": "Empirical budget measurement, assertion tooling, and cost dashboard for Soroban smart contracts",
+  "description": "EtherLink — Empirical budget measurement, assertion tooling, and cost dashboard for Soroban smart contracts",
   "scripts": {
     "build": "npm run build:frontend && npm run build:contracts",
     "build:frontend": "npm --prefix frontend run build",

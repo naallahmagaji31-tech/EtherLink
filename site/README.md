@@ -1,6 +1,6 @@
-# Soroban Budget Assert Landing Page
+# EtherLink Landing Page & Dashboard
 
-This directory contains the source code for the official `soroban-budget-assert` landing page and cost-over-time dashboard.
+This directory contains the source code for the official EtherLink landing page and cost-over-time dashboard.
 
 ## 🚀 Overview
 
